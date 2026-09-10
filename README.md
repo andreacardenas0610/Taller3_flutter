@@ -40,13 +40,3 @@ El proyecto está estructurado en módulos para facilitar el trabajo colaborativ
   * `AgendaPage`: Vista principal de la agenda.
   * `TaskTile`: Componente visual para cada ítem de tarea.
   * `AddTaskModal`: Formulario modal para registrar o editar tareas.
-
----
-
-## 🚀 Instrucciones de Configuración e Instalación
-
-### 1. Configuración del Backend (FastAPI)
-
-1. Ve a la carpeta del backend:
-   ```bash
-   cd backend
